@@ -1,0 +1,17 @@
+Gantt Chart:
+-----------
+| p1 | p2 | p3 | p4 | p5 |
+-----------
+
+Process Details:
+----------------
+Process	Wait Time	Turnaround Time	Response Time
+p1			0			5			0
+p2			4			7			4
+p3			6			7			6
+p4			6			8			6
+p5			7			10			7
+----------------
+
+Average Waiting Time: 4.6
+Average Turnaround Time: 7.4
